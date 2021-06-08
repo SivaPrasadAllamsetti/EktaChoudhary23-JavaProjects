@@ -1,0 +1,42 @@
+package varsAndExpressions;
+
+public class ExpressionsInJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//System is a class
+		//out is a static variable declared in System class and of type  Class PrintStream
+		//println is a method declared in PrintStream class
+		//Single line comment is done through //
+		//multiple line comment: 
+	//	System.out.println("hellow world");;
+		
+		// DataType varName = value;
+		
+		int a = 20;
+		int b = 30;
+		String sub1 = "Java";
+		String sub2 = "Python";
+		System.out.print(a);
+		System.out.println("a");
+		
+		System.out.println("We are learning Java");
+		
+		System.out.println("The value of a is :- % \\n" +  a);
+		
+		System.out.println("a" + 30);
+		
+		
+		System.out.println(a+b+sub1+sub2);
+		
+		
+		// 50JavaPython
+		
+		
+		
+		
+		
+		
+	}
+
+}
