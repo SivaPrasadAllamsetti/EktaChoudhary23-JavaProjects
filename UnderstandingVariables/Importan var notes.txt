@@ -1,0 +1,62 @@
+sa = 20;
+
+b = 30;
+
+name = "Ekta"
+
+// Rules and conventions for variables
+
+1. Variables name No spaces..  Links In The Header -- Wrong
+2. Variables name -- spcl chars -- Not allowed except _
+3. Variables names cannot start with a number   a1, 1a, a1b
+4. Java is a case sensitive language, 
+
+// Conventions,
+
+1. links_in_the_header
+2. linksintheheader
+
+CAML, PASCAL casing
+
+CAML --> linksInTheHeader --> Vars, packages, functions
+
+PASCAL --> LinksInTheHeader --> Class, project
+
+// Data Types
+
+int --> Integer --> 20, 30, 100, -7 
+float --> Float --> 20.5f, -30.7f
+String --> "J", "Ja//t/va", "We # % /n r studying Java", "1000"
+boolean --> Boolean --> true, false
+char --> Character --> 'c', '4'
+
+// How do we declare a variable]
+
+//DataType varName = value;
+
+ int num = 30;
+
+	int num; // Decalration
+num = 30; // Initialization
+
+Keywords -  reserved set of words which have been used by Java people
+
+int num = 30;
+
+int, float, public, private, true, false, abstract
+
+//String num = "niwuhf";
+
+
+String s = "1000";     "1000" + 1000 = "10001000" 
+ 
+s+1000;    1000 + 1000 = 2000
+
+String s = "We are //n studying Java";
+
+
+We are /n studying java
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+okay
