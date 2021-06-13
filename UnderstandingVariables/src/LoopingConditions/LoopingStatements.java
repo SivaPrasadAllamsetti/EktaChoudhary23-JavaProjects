@@ -1,4 +1,4 @@
-package varsAndExpressions;
+package LoopingConditions;
 
 public class LoopingStatements {
 
@@ -17,7 +17,11 @@ public class LoopingStatements {
 			System.out.println(i);
 			i--;
 		}while(i>0);
-		System.out.println("I am out of loop");
+		
+		/*
+		 * do { //statements }while(boolean condition)
+		 */
+		System.out.println(i);
 	}
 
 }
